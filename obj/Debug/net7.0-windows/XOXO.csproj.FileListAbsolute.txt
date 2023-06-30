@@ -1,0 +1,17 @@
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\bin\Debug\net7.0-windows\XOXO.exe
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\bin\Debug\net7.0-windows\XOXO.deps.json
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\bin\Debug\net7.0-windows\XOXO.runtimeconfig.json
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\bin\Debug\net7.0-windows\XOXO.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\bin\Debug\net7.0-windows\XOXO.pdb
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\obj\Debug\net7.0-windows\XOXO.csproj.AssemblyReference.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\obj\Debug\net7.0-windows\XOXO.Form1.resources
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\obj\Debug\net7.0-windows\XOXO.csproj.GenerateResource.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\obj\Debug\net7.0-windows\XOXO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\obj\Debug\net7.0-windows\XOXO.AssemblyInfoInputs.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\obj\Debug\net7.0-windows\XOXO.AssemblyInfo.cs
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\obj\Debug\net7.0-windows\XOXO.csproj.CoreCompileInputs.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\obj\Debug\net7.0-windows\XOXO.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\obj\Debug\net7.0-windows\refint\XOXO.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\obj\Debug\net7.0-windows\XOXO.pdb
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\obj\Debug\net7.0-windows\XOXO.genruntimeconfig.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\XOXO\XOXO\obj\Debug\net7.0-windows\ref\XOXO.dll
